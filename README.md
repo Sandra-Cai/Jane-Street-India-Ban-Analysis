@@ -44,7 +44,7 @@ The paper covers:
 
 ## How to Read / Cite
 
-The full paper is available as a PDF in this repository: [`Inside_the_Ban.pdf`](./Inside_the_Ban__A_Quantitative_Autopsy_of_Jane_Street_s_Trading_Tactics_in_India.pdf)
+The full paper is available as a PDF in this repository.
 
 To cite this work:
 ```
